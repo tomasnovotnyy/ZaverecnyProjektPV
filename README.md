@@ -46,6 +46,21 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >  |     1.| Binární |
 >  |     2.| Reversní |
 >  |     3.| Caesarova šifra |
+>  - # *Binární kódování*
+>    Binární kód je v informatice způsob uložení informace v počítači definovaný jako konečný počet bitů, z nichž každý může nabývat právě jednu ze dvou hodnot (obvykle označených 0 nebo 1).<br/><br/>
+> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec v podobě nul a jedniček (binární kód).<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku binární řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
+>  - # *Reversní kódování*
+>     Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak v opačné/reversní pozici než v jaké byl původně napsaný.<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
+>  - # *Caesarova šifra*
+>     Princip Caesarovy šifry je založen na tom, že všechna písmena zprávy jsou během šifrování zaměněna za písmeno, které se abecedně nachází o pevně určený počet míst dále (tj. posun je pevně zvolen). V našem případě je každé písmeno posunuto o tři místa v abecedě, tedy 'a' --> 'd', 'b' --> 'e' atd.<br/><br/>
+> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak posunut o tři místa v abecedě.<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.
+> 
+>     Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
 # *Tutorial*
 > Pomocí tohoto tlačítka se uživatel naučí jak správně zadávat a pracovat s jednotlivými sekcemi. Po kliknutí se zobrazí další tři tlačítka:
 >  | Button | Název |
