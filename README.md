@@ -128,9 +128,10 @@ Verze: 22H2<br/>
 
 <details>
 <summary>Software</summary>
-IntelliJ IDEA 2022.1 (Community Edition)<br/>
-Build #IC-221.5080.210, built on April 12, 2022<br/>
-Runtime version: 11.0.14.1+1-b2043.25 amd64<br/>
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.<br/>
-Copyright © 2000–2022 JetBrains s.r.o.<br/>
+Microsoft Visual Studio Community 2022<br/>
+Verze 17.3.6<br/>
+VisualStudio.17.Release/17.3.6+32929.385<br/>
+Microsoft .NET Framework<br/>
+Verze 4.8.09032<br/>
+Nainstalovaná verze: Community<br/>  
 </details>
