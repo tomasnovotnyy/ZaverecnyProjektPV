@@ -1,4 +1,4 @@
-# **Závěrečný Projekt PV**
+# **PV - Závěrečný Projekt**
 ![Photo](https://github.com/tomasnovotnyy/ZaverecnyProjektPV/assets/84340580/4fd71508-2654-4b5c-8be3-483a2ad39859)
 + Tato aplikace slouží pro:
   - Vytvoření svého vlastního stromu, který je poté reprezentován jak v slovně 
@@ -65,11 +65,9 @@ v grafu, projít strom do hloubky (Preorder, Inorder, Postorder, HeapSort, Quick
 > Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
 > Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
 >  - # *Caesarova šifra*
->     Princip Caesarovy šifry je založen na tom, že všechna písmena zprávy jsou během šifrování zaměněna za písmeno, které se abecedně nachází o pevně určený počet míst dále (tj. posun je pevně zvolen). V našem případě je každé písmeno posunuto o tři místa v abecedě, tedy 'a' --> 'd', 'b' --> 'e' atd.<br/><br/>
-> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak posunut o tři místa v abecedě.<br/><br/>
-> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.
-> 
->     Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
+>     Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak posunut o tři místa v abecedě.<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
 # *Tutorial*
 > Pomocí tohoto tlačítka se uživatel naučí jak správně zadávat a pracovat s jednotlivými sekcemi. Po kliknutí se zobrazí další tři tlačítka:
 >  | Button | Název |
@@ -86,15 +84,15 @@ v grafu, projít strom do hloubky (Preorder, Inorder, Postorder, HeapSort, Quick
 > - Po úspěšném zadání se uživateli na obrazovce ukáže jeho zadaná hodnota kořene stromu, aby se ujistil, že zadal správné číslo.
 > - Následně si uživatel vybere počet následujících uzlů, které chce zadat. Podle počtu uzlů bude uživatel zadávat hodnoty těchto uzlů, přičemž by neměl opakovat stejná čísla.
 > 
-> Pokud udělá uživatel vše správně, tak se mu na obrazovce zobrazí následující informace:
-> 1. Počet vrcholů v grafu
-> 2. Výsledný graf v lidsky čitelné podobě
-> 3. Seřazování čísel<br/>
-	a) InOrder<br/>
-	b) PreOrder<br/>
-	c) PostOrder<br/>
-	d) HeapSort<br/>
-	e) QuickSort<br/><br/>
+> Pokud udělá uživatel vše správně, tak se na obrazovce zobrazí následující informace:
+> - Počet vrcholů v grafu
+> - Výsledný graf v lidsky čitelné podobě
+> - Seřazování čísel<br/>
+&emsp;1. InOrder<br/>
+&emsp;2. PreOrder<br/>
+&emsp;3. PostOrder<br/>
+&emsp;4. HeapSort<br/>
+&emsp;5. QuickSort<br/><br/>
 > # *Dijkstrův algoritmus*
 > Dijkstrův algoritmus je algoritmus sloužící k nalezení nejkratší cesty v grafu --> řeší nejkratší cestu z vrcholu 𝑠 (startovního vrcholu) do ostatních vrcholů grafu.<br/><br/>
 > V tomto programu používám pro ukázku graf se 4 vrcholy, kde jsou vrcholy označeny čísly 0, 1, 2 a 3, a hranou spojující vrcholy 0 a 1 s váhou 2, hranou spojující vrcholy 1 a 2 s váhou 3 a hranou spojující vrcholy 2 a 3 s váhou 4.<br/><br/>
