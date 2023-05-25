@@ -4,7 +4,7 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 + 💻Vše bylo vytvořeno v aplikaci Visual Studio 2022 v jazyce C# .<br/>
 + Při spuštění si uživatel může zvolit ze tří různých možností: 
   | Button | Název |
-  |-----:|-----------|
+  |:---|:---:|
   |     1.| Popis aplikace |
   |     2.| Start |
   |     3.| TUtorial |
@@ -14,7 +14,7 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 # *Start*
 > Tlačítko start slouží pro otevření nové formy s nabídkou tří nových možností:
 >  | Button | Název |
->  |-----:|-----------|
+>  |:---|:---:|
 >  |     1.| Vytvoření grafu |
 >  |     2.| Dijkstrův algoritmus |
 >  |     3.| Kódování |
