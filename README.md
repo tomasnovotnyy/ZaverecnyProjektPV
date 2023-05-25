@@ -11,9 +11,16 @@ popsané podobě, tak i v lidsky čitelné podobě.
   |     1.| Popis aplikace |
   |     2.| Start |
   |     3.| Tutorial |
-+ Pro zavření aplikace může uživatel použít křížek v pravém horním rohu nebo tlačítko **'Exit'**.<br/>
++ Pro zavření aplikace může uživatel použít křížek v pravém horním rohu nebo tlačítko **'Exit'**.<br/><br/>
 # *Popis aplikace*
-> Toto tlačítko slouží pro rychlé a jednoduché pochopení cíle mé závěrečné práce z předmětu PV. Zároveň je zde popsáno co vše je v aplikaci možné dělat.
+> *Toto tlačítko slouží pro rychlé a jednoduché pochopení cíle mé závěrečné práce z předmětu PV. Zároveň je zde popsáno co vše je v aplikaci možné dělat.*<br/><br/><br/>
+> Cílem mé závěrečné práce z předmětu PV bylo vytvořit aplikaci, která by byla schopná nechat 
+uživatele, aby si mohl vytvořit svůj vlastní strom, který by byl poté reprezentovaný jak v slovně 
+popsané podobě, tak i v lidsky čitelné podobě.<br/><br/>
+> Program je také schopný spočítat počet vrcholů 
+v grafu, projít strom do hloubky (Preorder, Inorder, Postorder, HeapSort, QuickSort) a uložit finální strom do textového souboru.<br/><br/>
+> Dále program dokáže najít nejkratší cestu z vrcholu 𝑠 (startovního vrcholu) do ostatních vrcholů grafu pomocí Dijkstrova algoritmu.<br/><br/>
+> Program také dokáže kódovat a dekódovat binární kód, reversní kód a Caesarovu šifru.<br/><br/>
 # *Start*
 > Tlačítko start slouží pro otevření nové formy s nabídkou tří nových možností:
 >  | Button | Název |
@@ -37,9 +44,10 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >     - PreOrder
 >     - PostOrder
 >     - HeapSort
->     - QuickSort
+>     - QuickSort<br/><br/>
 >  # *Dijkstrův algoritmus*
->  Po kliknutí na tlačítko 'Dijkstrův algoritmus' se uživateli zobrazí nová forma, kde je popsáno co to vlastně Dijkstrův algoritmus je a pomocí jednoduchého příkladu s obrázkem si uživatel bude moci po kliknutí na tlačítko 'Dijkstrův algoritmus' vyzkoušet jak takový Dijkstrův algoritmus funguje. Po kliknutí na toto tlačíto se zobrazí okno, kde uživatel zadá počáteční vrchol -> poté se zobrazí vzdálenost od počátku pro jednotlivé vrcholy v grafu.
+>  Po kliknutí na tlačítko 'Dijkstrův algoritmus' se uživateli zobrazí nová forma, kde je popsáno co to vlastně Dijkstrův algoritmus je a pomocí jednoduchého příkladu s obrázkem si uživatel bude moci po kliknutí na tlačítko 'Dijkstrův algoritmus' vyzkoušet jak tento algoritmus funguje.<br/><br/>
+>   Po kliknutí na toto tlačíto se zobrazí okno, kde uživatel zadá počáteční vrchol -> poté se zobrazí vzdálenost od počátku pro jednotlivé vrcholy v grafu.<br/><br/>
 >  # *Kódování*
 >  Po kliknutí na tlačítko 'Kódování' se uživateli zobrazí nová forma s dalšími třemi tlačítky:
 >  | Button | Název |
@@ -50,17 +58,17 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >  - # *Binární kódování*
 >    Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec v podobě nul a jedniček (binární kód).<br/><br/>
 > Pro dekódování uživatel zadá do textového pole v druhém řádku binární řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
-> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
 >  - # *Reversní kódování*
 >     Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak v opačné/reversní pozici než v jaké byl původně napsaný.<br/><br/>
 > Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
-> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
 >  - # *Caesarova šifra*
 >     Princip Caesarovy šifry je založen na tom, že všechna písmena zprávy jsou během šifrování zaměněna za písmeno, které se abecedně nachází o pevně určený počet míst dále (tj. posun je pevně zvolen). V našem případě je každé písmeno posunuto o tři místa v abecedě, tedy 'a' --> 'd', 'b' --> 'e' atd.<br/><br/>
 > Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak posunut o tři místa v abecedě.<br/><br/>
 > Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.
 > 
->     Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
+>     Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
 # *Tutorial*
 > Pomocí tohoto tlačítka se uživatel naučí jak správně zadávat a pracovat s jednotlivými sekcemi. Po kliknutí se zobrazí další tři tlačítka:
 >  | Button | Název |
@@ -69,7 +77,7 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >  |     2.| Dijkstrův algoritmus |
 >  |     3.| Kódování |
 >  
->  Po kliknutí na jedno z tlačítek se uživateli zobrazí tutorial pro danou sekci.
+>  Po kliknutí na jedno z tlačítek se uživateli zobrazí tutorial pro danou sekci.<br/><br/>
 >  
 >  # *Vytvoření grafu*
 >  Pro vytvoření stromu/grafu musí uživatel udělat následující kroky:
