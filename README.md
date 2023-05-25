@@ -13,8 +13,8 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 > Toto tlačítko slouží pro rychlé a jednoduché pochopení cíle mé závěrečné práce z předmětu PV. Zároveň je zde popsáno co vše je v aplikaci možné dělat.
 # *Start*
 > Tlačítko start slouží pro otevření nové formy s nabídkou tří nových možností:
-  | Button | Název |
-  |-----:|-----------|
-  |     1.| Vytvoření grafu |
-  |     2.| Dijkstrův algoritmus |
-  |     3.| Kódování |
+>  | Button | Název |
+>  |-----:|-----------|
+>  |     1.| Vytvoření grafu |
+>  |     2.| Dijkstrův algoritmus |
+>  |     3.| Kódování |
