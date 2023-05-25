@@ -48,8 +48,7 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >  |     2.| Reversní |
 >  |     3.| Caesarova šifra |
 >  - # *Binární kódování*
->    Binární kód je v informatice způsob uložení informace v počítači definovaný jako konečný počet bitů, z nichž každý může nabývat právě jednu ze dvou hodnot (obvykle označených 0 nebo 1).<br/><br/>
-> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec v podobě nul a jedniček (binární kód).<br/><br/>
+>    Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec v podobě nul a jedniček (binární kód).<br/><br/>
 > Pro dekódování uživatel zadá do textového pole v druhém řádku binární řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
 > Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.
 >  - # *Reversní kódování*
@@ -91,6 +90,24 @@ popsané podobě, tak i v lidsky čitelné podobě.
 > Dijkstrův algoritmus je algoritmus sloužící k nalezení nejkratší cesty v grafu --> řeší nejkratší cestu z vrcholu 𝑠 (startovního vrcholu) do ostatních vrcholů grafu.<br/><br/>
 > V tomto programu používám pro ukázku graf se 4 vrcholy, kde jsou vrcholy označeny čísly 0, 1, 2 a 3, a hranou spojující vrcholy 0 a 1 s váhou 2, hranou spojující vrcholy 1 a 2 s váhou 3 a hranou spojující vrcholy 2 a 3 s váhou 4.<br/><br/>
 > Uživatel si po kliknutí na tlačítko 'Dijkstrův algoritmus' vybere počáteční vrchol a následně se mu ukáže vzdálenost od počátku.<br/><br/>
+> # *Kódování*
+> - # *Binární kódování*
+> 	Binární kód je v informatice způsob uložení informace v počítači definovaný jako konečný počet bitů, z nichž každý může nabývat právě jednu ze dvou hodnot (obvykle označených 0 nebo 1).<br/><br/>
+> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec v podobě nul a jedniček (binární kód).<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku binární řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
+> V případě chyby se uživateli zobrazí hláška s upozorněním a popisem co je špatně.<br/><br/>
+> - # *Reversní kódování*
+> 	Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak v opačné/reversní pozici než v jaké byl původně napsaný.<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
+> V případě chyby se uživateli zobrazí hláška s upozorněním a popisem co je špatně.<br/><br/>
+> - # *Caesarova šifra*
+> 	Princip Caesarovy šifry je založen na tom, že všechna písmena zprávy jsou během šifrování zaměněna za písmeno, které se abecedně nachází o pevně určený počet míst dále (tj. posun je pevně zvolen). V našem případě je každé písmeno posunuto o tři místa v abecedě, tedy 'a' --> 'd', 'b' --> 'e' atd.<br/><br/>
+> Pro použití uživatel zadá do textového pole v prvním řádku řetězec, který chce zakódovat a následně klikne na tlačítko 'Encode'. V pravém textovém poli se uživateli zobrazí zakódovaný řetězec, kde je každý znak posunut o tři místa v abecedě.<br/><br/>
+> Pro dekódování uživatel zadá do textového pole v druhém řádku řetězec, který chce dekódovat a následně klikne na tlačítko 'Decode'. V pravém textovém poli se uživateli zobrazí dekódovaný řetězec.<br/><br/>
+> Uživatel má také možnost vyčistit všechna textová pole pomocí tlačítka 'Clear'.<br/><br/>
+> V případě chyby se uživateli zobrazí hláška s upozorněním a popisem co je špatně.<br/><br/>
 # *Hardware & Software*
 <details>
 <summary>Hardware</summary>
