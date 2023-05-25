@@ -1,7 +1,7 @@
 # **ZaverecnyProjektPV**
 + Tato aplikace slouží pro vytvoření svého vlastního stromu, který je poté reprezentován jak v slovně 
 popsané podobě, tak i v lidsky čitelné podobě.<br/>
-+ 💻Vše bylo vytvořeno v aplikaci Visual Studio 2022 v jazyce C# .<br/>
++ 💻 Vše bylo vytvořeno v aplikaci Visual Studio 2022 v jazyce C# .<br/>
 + Při spuštění si uživatel může zvolit ze tří různých možností: 
   | Button | Název |
   |:---|:---:|
@@ -18,3 +18,18 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 >  |     1.| Vytvoření grafu |
 >  |     2.| Dijkstrův algoritmus |
 >  |     3.| Kódování |
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
