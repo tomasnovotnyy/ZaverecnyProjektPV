@@ -5,11 +5,16 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 + Při spuštění si uživatel může zvolit ze tří různých možností: 
   | Button | Název |
   |-----:|-----------|
-  |     1| Popis aplikace |
-  |     2| Start |
-  |     3| TUtorial |
+  |     1.| Popis aplikace |
+  |     2.| Start |
+  |     3.| TUtorial |
 + Pro zavření aplikace může uživatel použít křížek v pravém horním rohu nebo tlačítko **'Exit'**.<br/>
 # *Popis aplikace*
 > Toto tlačítko slouží pro rychlé a jednoduché pochopení cíle mé závěrečné práce z předmětu PV. Zároveň je zde popsáno co vše je v aplikaci možné dělat.
 # *Start*
-> Tlačítko start slouží pro  
+> Tlačítko start slouží pro otevření nové formy s nabídkou tří nových možností:
+  | Button | Název |
+  |-----:|-----------|
+  |     1.| Vytvoření grafu |
+  |     2.| Dijkstrův algoritmus |
+  |     3.| Kódování |
