@@ -18,6 +18,16 @@ popsané podobě, tak i v lidsky čitelné podobě.<br/>
 >  |     1.| Vytvoření grafu |
 >  |     2.| Dijkstrův algoritmus |
 >  |     3.| Kódování |
+# *Tutorial*
+> Pomocí tohoto tlačítka se uživatel naučí jak správně zadávat a pracovat s jednotlivými sekcemi. Po kliknutí se zobrazí další tři tlačítka:
+>  | Button | Název |
+>  |:---|:---:|
+>  |     1.| Vytvoření grafu |
+>  |     2.| Dijkstrův algoritmus |
+>  |     3.| Kódování |
+>  Po kliknutí na jedno z tlačítek se uživateli zobrazí tutorial pro danou sekci.
+
+
 <details>
 
 <summary>Tips for collapsed sections</summary>
