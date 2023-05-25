@@ -71,6 +71,26 @@ popsané podobě, tak i v lidsky čitelné podobě.
 >  |     3.| Kódování |
 >  
 >  Po kliknutí na jedno z tlačítek se uživateli zobrazí tutorial pro danou sekci.
+>  
+>  # *Vytvoření grafu*
+>  Pro vytvoření stromu/grafu musí uživatel udělat následující kroky:
+> - Nejdříve musí uživatel zadat kořen stromu od kterého se budou odvíjet všechny následující kroky. 
+> - Po úspěšném zadání se uživateli na obrazovce ukáže jeho zadaná hodnota kořene stromu, aby se ujistil, že zadal správné číslo.
+> - Následně si uživatel vybere počet následujících uzlů, které chce zadat. Podle počtu uzlů bude uživatel zadávat hodnoty těchto uzlů, přičemž by neměl opakovat stejná čísla.
+> 
+> Pokud udělá uživatel vše správně, tak se mu na obrazovce zobrazí následující informace:
+> 1. Počet vrcholů v grafu
+> 2. Výsledný graf v lidsky čitelné podobě
+> 3. Seřazování čísel<br/>
+	a) InOrder<br/>
+	b) PreOrder<br/>
+	c) PostOrder<br/>
+	d) HeapSort<br/>
+	e) QuickSort<br/><br/>
+> # *Dijkstrův algoritmus*
+> Dijkstrův algoritmus je algoritmus sloužící k nalezení nejkratší cesty v grafu --> řeší nejkratší cestu z vrcholu 𝑠 (startovního vrcholu) do ostatních vrcholů grafu.<br/><br/>
+> V tomto programu používám pro ukázku graf se 4 vrcholy, kde jsou vrcholy označeny čísly 0, 1, 2 a 3, a hranou spojující vrcholy 0 a 1 s váhou 2, hranou spojující vrcholy 1 a 2 s váhou 3 a hranou spojující vrcholy 2 a 3 s váhou 4.<br/><br/>
+> Uživatel si po kliknutí na tlačítko 'Dijkstrův algoritmus' vybere počáteční vrchol a následně se mu ukáže vzdálenost od počátku.<br/><br/>
 # *Hardware & Software*
 <details>
 <summary>Hardware</summary>
