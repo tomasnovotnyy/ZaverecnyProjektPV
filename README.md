@@ -1,4 +1,5 @@
 # **ZaverecnyProjektPV**
+![Photo](https://github.com/tomasnovotnyy/ZaverecnyProjektPV/assets/84340580/4fd71508-2654-4b5c-8be3-483a2ad39859)
 + Tato aplikace slouží pro:
   - Vytvoření svého vlastního stromu, který je poté reprezentován jak v slovně 
 popsané podobě, tak i v lidsky čitelné podobě.
