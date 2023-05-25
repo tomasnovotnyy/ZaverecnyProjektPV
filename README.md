@@ -4,7 +4,8 @@
 popsané podobě, tak i v lidsky čitelné podobě.
   - Nalezení nejkratší cesty z vrcholu 𝑠 (startovního vrcholu) do ostatních vrcholů grafu pomocí Dijkstrova algoritmu.
   - Kódování a dekódování binárního kódu, reversního kódu a Caesarovy šifry.<br/>
-+ Při spuštění si uživatel může zvolit ze tří různých možností: 
++ Při spuštění si uživatel může zvolit ze tří různých možností:
+
   | Button | Název |
   |:---|:---:|
   |     1.| Popis aplikace |
